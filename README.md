@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Fidelis Karuri Wachira!
+## 👋🏾 Hello, I'm Fidelis Karuri Wachira!
 
 📚 I'm a student pursuing a degree in Information Technology at Umma University (Kajiado).
 
@@ -36,7 +36,5 @@
      ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
 
 🔭 Currently working on exciting projects and always eager to learn new technologies to solve real-world problems. 
-
-📫 You can reach me via email at fideliskaruri@gmail.com or connect with me on LinkedIn - [Fidelis Karuri](https://www.linkedin.com/in/fideliskaruri/).
 
 🌟 Let's collaborate and create something awesome together!

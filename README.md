@@ -38,3 +38,5 @@
 🔭 Currently working on exciting projects and always eager to learn new technologies to solve real-world problems. 
 
 🌟 Let's collaborate and create something awesome together!
+
+[![Wachira's](https://github-readme-stats.vercel.app/api?username=itsfidelgray)](https://github.com/itsfidelgray/github-readme-stats)

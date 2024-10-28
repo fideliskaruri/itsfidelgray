@@ -25,4 +25,4 @@
      ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 
-[![Wachira's](https://github-readme-stats.vercel.app/api?username=itsfidelgray)](https://github.com/fideliskaruri/github-readme-stats)
+[![Wachira's](https://github-readme-stats.vercel.app/api?username=fideliskaruri)](https://github.com/fideliskaruri/github-readme-stats)
